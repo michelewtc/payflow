@@ -28,16 +28,16 @@ class _LoginPageState extends State<LoginPage> {
               color: AppColors.primary,
             ),
             Positioned(
-                top: 60,
+                top: 40,
                 left: 0,
                 right: 0,
                 child: Image.asset(
                   AppImages.person,
                   width: 208,
-                  height: 373,
+                  height: 300,
                 )),
             Positioned(
-                bottom: size.height * 0.15,
+                bottom: size.height * 0.05,
                 left: 0,
                 right: 0,
                 child: Column(
