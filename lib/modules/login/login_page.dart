@@ -53,7 +53,7 @@ class _LoginPageState extends State<LoginPage> {
                       child: Text(
                         "Organize seus boletos em um só lugar",
                         textAlign: TextAlign.center,
-                        style: AppTextStyles.titleHome,
+                        style: TextStyles.titleHome,
                       ),
                     ),
                     Padding(
